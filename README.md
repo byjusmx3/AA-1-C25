@@ -1,2 +1,2 @@
 # PRO-C25-AA
-Plantilla de código para la actividad del alumno.
+Plantilla de código de la actividad del alumno.
